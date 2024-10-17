@@ -14,7 +14,7 @@ const Navbar = ({ sidebar, setSidebar }) => {
               <a href="#">Home</a>
             </li>
             <li>
-              <a href="#">Where to find</a>
+              <a href="#">Where to find </a>
             </li>
             <li>
               <a href="#">Contact</a>
